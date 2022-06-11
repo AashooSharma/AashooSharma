@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AashooSharma/README.md/main/20220611_184945.gif?token=GHSAT0AAAAAABU2GF5TITGO2QWRLVTFYSV6YVES7XQ">
+<img src="https://raw.githubusercontent.com/AashooSharma/images/main/hello.gif">
 <br>
 <p align="center">
 <a href="https://www.linkedin.com/in/aashoosharma"><img src="https://img.shields.io/badge/Aashoo-Linkedin-blue?style=for-the-badge&logo=appveyor" />
