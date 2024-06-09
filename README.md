@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AashooSharma/images/main/hello.gif">
+<img src="./hello.gif">
 <br>
 <p align="center">
 <a href="https://www.linkedin.com/in/aashoosharma"><img src="https://img.shields.io/badge/Aashoo-Linkedin-blue?style=for-the-badge&logo=appveyor" />
