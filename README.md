@@ -58,6 +58,12 @@
 </p>
 
 ---
+
+
+*   Shows user rank percentile instead of rank level
+
+![Aashoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=aashoosharma\&rank_icon=percentile)
+
 <!---
 - 👋 Hi, I’m @AashooSharma
 - 👀 I’m interested in ...
