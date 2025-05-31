@@ -29,6 +29,12 @@
 <br />
 <br />
 
+## ⚙️ Technology Stack  
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aashoosharma&theme=tokyonight" alt="Repos per Language" style="border-radius: 15px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aashoosharma&theme=tokyonight" alt="Most Used Languages" style="border-radius: 15px;">
+</p>
 
 ---
 
