@@ -30,6 +30,34 @@
 <br />
 
 
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aashoosharma&show_icons=true&theme=tokyonight&hide_border=true&card_width=300" alt="GitHub Stats" style="border-radius: 15px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashoosharma&layout=compact&theme=tokyonight&hide_border=true&card_width=300" alt="Top Languages" style="border-radius: 15px;">
+</p>
+
+---
+
+## 🔥 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aashoosharma&theme=tokyo-night&hide_border=true" alt="Commit Graph" style="border-radius: 15px;">
+</p>
+
+---
+
+## 🔍 Activity Overview  
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aashoosharma&theme=tokyonight" alt="GitHub Summary" style="border-radius: 15px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aashoosharma&theme=tokyonight" alt="GitHub Stats" style="border-radius: 15px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aashoosharma&theme=tokyonight&utcOffset=8" alt="Productive Time" style="border-radius: 15px;">
+</p>
+
+---
 <!---
 - 👋 Hi, I’m @AashooSharma
 - 👀 I’m interested in ...
