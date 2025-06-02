@@ -36,9 +36,9 @@ I’m a 𝘽.𝙏𝙚𝙘𝙝 𝘾𝙎𝙀 2𝙣𝙙-𝙮𝙚𝙖𝙧 (4𝙩𝙝
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AashooSharma&theme=tokyonight&hide_border=true&border_radius=15" alt="Aashoo Sharma's Streak" />
 </p>
 
-
-![Aashoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=aashoosharma\&rank_icon=percentile)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aashoosharma&rank_icon=percentile" alt="Aashoo's GitHub Ranking" />
+</p>
 
 ---
 
