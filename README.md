@@ -4,7 +4,11 @@
 <a href="https://www.linkedin.com/in/aashoosharma"><img src="https://img.shields.io/badge/Aashoo-Linkedin-blue?style=for-the-badge&logo=appveyor" />
 <a href="https://aashoosharma.netlify.app"><img src="https://img.shields.io/badge/Aashoo-Website-red?style=for-the-badge&logo=appveyor" />
 </p>
- 
+
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0FF&lines=Hello+👋+I+am+Aashoo;Cybersecurity+%26+DevOps+Engineer;IoT+Enthusiast+%F0%9F%9A%80;AI+%26+ML+Lover+🤖" />
+</p>
+
 <div align="center" >════════ ♢.✰.♢ ════════</div>
 
 <h1 align="center" >𝗔𝗕𝗢𝗨𝗧 𝗠𝗘</h1>
