@@ -27,6 +27,88 @@ I’m a 𝘽.𝙏𝙚𝙘𝙝 𝘾𝙎𝙀 2𝙣𝙙-𝙮𝙚𝙖𝙧 (4𝙩𝙝
 <div align="center" >════════ ♢.✰.♢ ════════</div>
 <!--<h3 align="center">devOps Engineer</h3>-->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AashooSharma&label=Profile%20views&color=0e75b6&style=flat" alt="AashooSharma" /> </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AashooSharma&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="AashooSharma's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AashooSharma&theme=tokyonight&hide_border=true&border_radius=15" alt="Aashoo Sharma's Streak" />
+</p>
+
+
+![Aashoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=aashoosharma\&rank_icon=percentile)
+
+
+---
+
+### 🚀 Languages & Tools
+
+<p align="center">
+  <img src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png" width="30px" />
+  <img src="https://github.com/mohitjaisal/ImageStore/blob/master/RawImages/html.png" width="30px" />
+  <img src="https://github.com/mohitjaisal/ImageStore/blob/master/RawImages/css.png" width="30px" />
+  <img src="https://github.com/mohitjaisal/ImageStore/blob/master/RawImages/javascript.png" width="30px" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="50px" />
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="50px" />
+  <img src="https://github.com/mohitjaisal/ImageStore/blob/master/RawImages/react.png" width="30px" />
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="30px" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="30px" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="30px" />
+  <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="30px" />
+  <img src="https://github.com/mohitjaisal/ImageStore/blob/master/RawImages/visual-studio-code.png" width="30px" />
+</p>
+
+---
+
+## ⚙️ Tech Stack Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aashoosharma&theme=tokyonight" style="border-radius: 15px;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aashoosharma&theme=tokyonight" style="border-radius: 15px;" />
+</p>
+
+---
+
+## 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aashoosharma&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" style="margin: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashoosharma&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" style="margin: 10px;" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aashoosharma&theme=tokyo-night&hide_border=true&border_radius=15" style="margin: 10px;" />
+</p>
+
+---
+
+## 🌟 Highlights & Timeline
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aashoosharma&theme=tokyonight" style="border-radius: 15px;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aashoosharma&theme=tokyonight" style="border-radius: 15px;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aashoosharma&theme=tokyonight&utcOffset=8" style="border-radius: 15px;" />
+</p>
+
+---
+
+<p align="center" style="color: #0ff; font-weight: bold; font-size: 1.1em;">
+  🚀 Let's connect, collaborate, and conquer the future together!
+</p>
+
+---
+
+<!---
+- 👋 Hi, I’m @AashooSharma
+- 👀 I’m interested in Cybersecurity, DevOps, IoT, AI, ML
+- 🌱 Currently learning full-stack & AI
+- 💞️ Always up for collaboration on exciting futuristic tech
+- 📫 Reach me at: aashoosharma8290@gmail.com
+--->
+
+
+<!--    
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AashooSharma&show_icons=true&locale=en" alt="AashooSharma" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AashooSharma&" alt="Aashoo Sharma" /></p>
 
@@ -87,8 +169,6 @@ I’m a 𝘽.𝙏𝙚𝙘𝙝 𝘾𝙎𝙀 2𝙣𝙙-𝙮𝙚𝙖𝙧 (4𝙩𝙝
 
 *   Shows user rank percentile instead of rank level
 
-![Aashoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=aashoosharma\&rank_icon=percentile)
-
 <!---
 - 👋 Hi, I’m @AashooSharma
 - 👀 I’m interested in ...
@@ -96,6 +176,7 @@ I’m a 𝘽.𝙏𝙚𝙘𝙝 𝘾𝙎𝙀 2𝙣𝙙-𝙮𝙚𝙖𝙧 (4𝙩𝙝
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
+
 <!---
 AashooSharma/AashooSharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
