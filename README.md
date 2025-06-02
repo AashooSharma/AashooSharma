@@ -13,8 +13,17 @@
 
 <h1 align="center" >𝗔𝗕𝗢𝗨𝗧 𝗠𝗘</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=6000&color=FF0000&vCenter=true&multiline=true&width=900&height=100&lines=I’m+a+𝘽.𝙏𝙚𝙘𝙝+𝘾𝙎𝙀+2𝙣𝙙-𝙮𝙚𝙖𝙧+(4𝙩𝙝+𝙨𝙚𝙢𝙚𝙨𝙩𝙚𝙧)+student+at+𝗣𝗼𝗼𝗿𝗻𝗶𝗺𝗮+𝗖𝗼𝗹𝗹𝗲𝗴𝗲;passionate+about+building+𝗶𝗻𝗻𝗼𝘃𝗮𝘁𝗶𝘃𝗲+𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀+in+𝘾𝙮𝙗𝙚𝙧𝙨𝙚𝙘𝙪𝙧𝙞𝙩𝙮%2C+𝘿𝙚𝙫𝙊𝙥𝙨%2C+𝙄𝙤𝙏%2C+𝙋𝙮𝙩𝙝𝙤𝙣%2C+𝙖𝙣𝙙+𝘼𝙄.;My+journey+includes+solid+𝘁𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹+𝘀𝗸𝗶𝗹𝗹𝘀+and+𝗺𝗲𝗻𝘁𝗼𝗿𝗶𝗻𝗴+experience." />
+</p>
+<!--
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=6000&color=FFFF00&vCenter=true&multiline=true&width=900&height=100&lines=I’m+a+𝘽.𝙏𝙚𝙘𝙝+𝘾𝙎𝙀+2𝙣𝙙-𝙮𝙚𝙖𝙧+(4𝙩𝙝+𝙨𝙚𝙢𝙚𝙨𝙩𝙚𝙧)+student+at+𝗣𝗼𝗼𝗿𝗻𝗶𝗺𝗮+𝗖𝗼𝗹𝗹𝗲𝗴𝗲;passionate+about+building+𝗶𝗻𝗻𝗼𝘃𝗮𝘁𝗶𝘃𝗲+𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀+in+𝘾𝙮𝙗𝙚𝙧𝙨𝙚𝙘𝙪𝙧𝙞𝙩𝙮%2C+𝘿𝙚𝙫𝙊𝙥𝙨%2C+𝙄𝙤𝙏%2C+𝙋𝙮𝙩𝙝𝙤𝙣%2C+𝙖𝙣𝙙+𝘼𝙄.;My+journey+includes+solid+𝘁𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹+𝘀𝗸𝗶𝗹𝗹𝘀+and+𝗺𝗲𝗻𝘁𝗼𝗿𝗶𝗻𝗴+experience." />
+</p>
+-->
+<!--
 I’m a 𝘽.𝙏𝙚𝙘𝙝 𝘾𝙎𝙀 2𝙣𝙙-𝙮𝙚𝙖𝙧 (4𝙩𝙝 𝙨𝙚𝙢𝙚𝙨𝙩𝙚𝙧) student at 𝗣𝗼𝗼𝗿𝗻𝗶𝗺𝗮 𝗖𝗼𝗹𝗹𝗲𝗴𝗲, passionate about building 𝗶𝗻𝗻𝗼𝘃𝗮𝘁𝗶𝘃𝗲 𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀 in 𝘾𝙮𝙗𝙚𝙧𝙨𝙚𝙘𝙪𝙧𝙞𝙩𝙮, 𝘿𝙚𝙫𝙊𝙥𝙨, 𝙄𝙤𝙏, 𝙋𝙮𝙩𝙝𝙤𝙣, 𝙖𝙣𝙙 𝘼𝙄. My journey includes solid 𝘁𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝘀𝗸𝗶𝗹𝗹𝘀 and 𝗺𝗲𝗻𝘁𝗼𝗿𝗶𝗻𝗴 experience.
-
+-->
 <div align="center" >════════ ♢.✰.♢ ════════</div>
 <!--<h3 align="center">devOps Engineer</h3>-->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AashooSharma&label=Profile%20views&color=0e75b6&style=flat" alt="AashooSharma" /> </p>
