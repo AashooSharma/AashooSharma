@@ -2,11 +2,17 @@
 <br>
 <p align="center">
 <a href="https://www.linkedin.com/in/aashoosharma"><img src="https://img.shields.io/badge/Aashoo-Linkedin-blue?style=for-the-badge&logo=appveyor" />
-<a href="https://aashoosharma.tech"><img src="https://img.shields.io/badge/Aashoo-Website-red?style=for-the-badge&logo=appveyor" />
+<a href="https://aashoosharma.netlify.app"><img src="https://img.shields.io/badge/Aashoo-Website-red?style=for-the-badge&logo=appveyor" />
 </p>
  
-##  I am Electronics Engineering student and I'm Programmer
-<h3 align="center">web developer</h3>
+<div align="center" >════════ ♢.✰.♢ ════════</div>
+
+<h1 align="center" >𝗔𝗕𝗢𝗨𝗧 𝗠𝗘</h1>
+
+I’m a 𝘽.𝙏𝙚𝙘𝙝 𝘾𝙎𝙀 2𝙣𝙙-𝙮𝙚𝙖𝙧 (4𝙩𝙝 𝙨𝙚𝙢𝙚𝙨𝙩𝙚𝙧) student at 𝗣𝗼𝗼𝗿𝗻𝗶𝗺𝗮 𝗖𝗼𝗹𝗹𝗲𝗴𝗲, passionate about building 𝗶𝗻𝗻𝗼𝘃𝗮𝘁𝗶𝘃𝗲 𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀 in 𝘾𝙮𝙗𝙚𝙧𝙨𝙚𝙘𝙪𝙧𝙞𝙩𝙮, 𝘿𝙚𝙫𝙊𝙥𝙨, 𝙄𝙤𝙏, 𝙋𝙮𝙩𝙝𝙤𝙣, 𝙖𝙣𝙙 𝘼𝙄. My journey includes solid 𝘁𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝘀𝗸𝗶𝗹𝗹𝘀 and 𝗺𝗲𝗻𝘁𝗼𝗿𝗶𝗻𝗴 experience.
+
+<div align="center" >════════ ♢.✰.♢ ════════</div>
+<!--<h3 align="center">devOps Engineer</h3>-->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AashooSharma&label=Profile%20views&color=0e75b6&style=flat" alt="AashooSharma" /> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AashooSharma&show_icons=true&locale=en" alt="AashooSharma" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AashooSharma&" alt="Aashoo Sharma" /></p>
