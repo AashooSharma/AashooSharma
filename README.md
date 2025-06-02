@@ -1,9 +1,21 @@
-<img src="./hello.gif">
+<img src="./hello.gif" width="100%" />
+
+<br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aashoosharma">
+    <img src="https://img.shields.io/badge/Aashoo-Linkedin-0ff?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://aashoosharma.netlify.app">
+    <img src="https://img.shields.io/badge/Aashoo-Website-ff1493?style=for-the-badge&logo=firefox" />
+  </a>
+</p>
+<!--<img src="./hello.gif">
 <br>
 <p align="center">
 <a href="https://www.linkedin.com/in/aashoosharma"><img src="https://img.shields.io/badge/Aashoo-Linkedin-blue?style=for-the-badge&logo=appveyor" />
 <a href="https://aashoosharma.netlify.app"><img src="https://img.shields.io/badge/Aashoo-Website-red?style=for-the-badge&logo=appveyor" />
-</p>
+</p>-->
 
  <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0FF&lines=Hello+👋+I+am+Aashoo;Cybersecurity+%26+DevOps+Engineer;IoT+Enthusiast+%F0%9F%9A%80;AI+%26+ML+Lover+🤖" />
