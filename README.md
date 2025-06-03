@@ -1,7 +1,7 @@
 <img src="./profile-welcome.gif" width="100%" />
 <br>
 <div text-align="center" >
-<img src="./hello.gif" width="40%" /><img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30%">
+<img src="./hello.gif" width="40%" /><img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30%"><img src="./walking.gif" align="right" width="30%" />
 </div>
 
 <!--![Thinking](./Mythinking.gif)-->
@@ -31,6 +31,9 @@
 <div align="center" >════════ ♢.✰.♢ ════════</div>
 <br>
 <div align="center" ><img src="./eye.gif" align="left" width="30%" /><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200"><img src="./eye.gif" align="right" width="30%" /></div>
+
+<div><img src="./matrix.gif" align="right" width="100%" /></div>
+
 <h1 align="center" ><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
 
 <p align="center">
