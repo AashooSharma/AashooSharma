@@ -30,7 +30,7 @@
 
 <div align="center" >════════ ♢.✰.♢ ════════</div>
 <br>
-<div align="center" ><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200"></div>
+<div align="center" ><img src="./eye.gif" align="left" width="30%" /><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200"><img src="./eye.gif" align="right" width="30%" /></div>
 <h1 align="center" ><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
 
 <p align="center">
