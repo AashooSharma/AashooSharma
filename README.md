@@ -1,7 +1,7 @@
 <img src="./profile-welcome.gif" width="100%" />
 <br>
 <div text-align="center" >
-<img src="./hello.gif" width="40%" /><img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30%"><img align='right' src="Mythinking.gif" width="30%">
+<img src="./hello.gif" width="40%" /><img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30%">
 </div>
 
 <!--![Thinking](./Mythinking.gif)-->
@@ -121,7 +121,18 @@ I’m a 𝘽.𝙏𝙚𝙘𝙝 𝘾𝙎𝙀 2𝙣𝙙-𝙮𝙚𝙖𝙧 (4𝙩𝙝
 </p>
 
 ---
+  <details>
+  <summary>💬 When someone asks about my girlfriend...</summary>
 
+  <br/>
+
+  🧠 My mind is constantly engaged with technology ⚙️💻, sci-fi 🚀✨, mysteries 🔍🧩, and alternate universes 🌌🪐.
+
+  <br/><br/>
+
+  <img align="center" src="Mythinking.gif" width="100%" alt="Thinking animation" />
+
+</details>
 <!---
 - 👋 Hi, I’m @AashooSharma
 - 👀 I’m interested in Cybersecurity, DevOps, IoT, AI, ML
