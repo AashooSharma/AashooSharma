@@ -66,7 +66,7 @@ I’m a 𝘽.𝙏𝙚𝙘𝙝 𝘾𝙎𝙀 2𝙣𝙙-𝙮𝙚𝙖𝙧 (4𝙩𝙝
 
 ---
 
-### 🚀 Languages & Tools
+## 🚀 Languages & Tools
 
 <div align="center" ><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="51" height="51" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="51" height="51" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="51" height="51" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="51" height="51" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="51" height="51" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="51" height="51" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="51" height="51" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="51" height="51" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="51" height="51" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="51" height="51" /><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="51" height="51" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="51" height="51" /></div></dive>
 
