@@ -7,7 +7,11 @@
 <!--![Thinking](./Mythinking.gif)-->
 <!--[![Watch the video](thumbnail.jpg)](My-mind-thinking.mp4)-->
 
-<br><br><br>
+<!--<br><br><br>-->
+<!--<div align="center" >
+<img src="./music-playing.gif" width="20%" /></div>-->
+  <div align="left" >
+<img src="./music-player.gif" width="30%" /></div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aashoosharma">
