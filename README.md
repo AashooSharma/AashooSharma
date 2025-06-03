@@ -1,5 +1,8 @@
+<img src="./profile-welcome.gif" width="100%" />
+<br>
+<div text-align="center" >
 <img src="./hello.gif" width="40%" /><img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30%"><img align='right' src="Mythinking.gif" width="30%">
-
+</div>
 
 <!--![Thinking](./Mythinking.gif)-->
 <!--[![Watch the video](thumbnail.jpg)](My-mind-thinking.mp4)-->
