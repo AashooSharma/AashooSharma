@@ -2,7 +2,7 @@
 
 
 <!--![Thinking](./Mythinking.gif)-->
-[![Watch the video](thumbnail.jpg)](My-mind-thinking.mp4)
+<!--[![Watch the video](thumbnail.jpg)](My-mind-thinking.mp4)-->
 
 <br><br><br>
 
