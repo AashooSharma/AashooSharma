@@ -1,7 +1,9 @@
-<img src="./hello.gif" width="50%" /><img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img src="./hello.gif" width="40%" /><img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30%"><img align='right' src="Mythinking.gif" width="30%">
 
 
-<br>
+<!--![Thinking](./Mythinking.gif)-->
+
+<br><br><br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aashoosharma">
