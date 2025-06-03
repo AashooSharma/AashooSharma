@@ -247,6 +247,9 @@ I’m a 𝘽.𝙏𝙚𝙘𝙝 𝘾𝙎𝙀 2𝙣𝙙-𝙮𝙚𝙖𝙧 (4𝙩𝙝
 </p>
 
 ---
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<br><br>
+<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="200" align="center">
 
 <p align="center" style="color: #0ff; font-weight: bold; font-size: 1.1em;">
   🚀 Let's connect, collaborate, and conquer the future together!
