@@ -251,6 +251,26 @@ I’m a 𝘽.𝙏𝙚𝙘𝙝 𝘾𝙎𝙀 2𝙣𝙙-𝙮𝙚𝙖𝙧 (4𝙩𝙝
 </p>
 
 ---
+
+<h2 align="center">Leetcode Info<h2>  
+<p align="center">
+  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Aashoosharma?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
+
+
+## 🏆 GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=Aashoosharma&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Aashoosharma&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+[![](https://visitcount.itsvg.in/api?id=awanishyadav967&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 <br><br>
 <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="200" align="center">
