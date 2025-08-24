@@ -1,3 +1,22 @@
+<!--<p style="display:none;">
+Hello 👋 I am Aashoo Sharma, a Cybersecurity & DevOps Engineer, IoT Enthusiast 🚀, and AI & ML Lover 🤖.  
+I’m a B.Tech CSE 3rd-year (5th sem) student at Poornima College of Engineering.  
+Passionate about building innovative solutions in Cybersecurity, DevOps, IoT, Python, and AI.  
+Mentoring students with my technical skills, always learning, building, and innovating!  
+</p>-->
+<!--
+Hello 👋 I am Aashoo Sharma, a Cybersecurity & DevOps Engineer, IoT Enthusiast 🚀, and AI & ML Lover 🤖.  
+I’m a B.Tech CSE 3rd-year (5th sem) student at Poornima College of Engineering.  
+Passionate about building innovative solutions in Cybersecurity, DevOps, IoT, Python, and AI.  
+Mentoring students with my technical skills, always learning, building, and innovating!  
+-->
+<p text-align="center" width="1%">
+Hello 👋 I am Aashoo Sharma, a Cybersecurity & DevOps Engineer, IoT Enthusiast 🚀, and AI & ML Lover 🤖.  
+I’m a B.Tech CSE 3rd-year (5th sem) student at Poornima College of Engineering.  
+Passionate about building innovative solutions in Cybersecurity, DevOps, IoT, Python, and AI.  
+Mentoring students with my technical skills, always learning, building, and innovating!  
+</p>
+
 <img src="./profile-welcome.gif" width="100%" />
 <br>
 <div text-align="center" >
