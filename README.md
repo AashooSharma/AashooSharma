@@ -64,7 +64,7 @@ Mentoring students with my technical skills, always learning, building, and inno
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=6000&color=FF0000&vCenter=true&multiline=true&width=900&height=150&lines=I’m+a+𝘽.𝙏𝙚𝙘𝙝+𝘾𝙎𝙀+2𝙣𝙙-𝙮𝙚𝙖𝙧+(4𝙩𝙝+𝙨𝙚𝙢𝙚𝙨𝙩𝙚𝙧)+student+at+𝗣𝗼𝗼𝗿𝗻𝗶𝗺𝗮+𝗖𝗼𝗹𝗹𝗲𝗴𝗲;passionate+about+building+𝗶𝗻𝗻𝗼𝘃𝗮𝘁𝗶𝘃𝗲+𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀+in+𝘾𝙮𝙗𝙚𝙧𝙨𝙚𝙘𝙪𝙧𝙞𝙩𝙮%2C+𝘿𝙚𝙫𝙊𝙥𝙨%2C+𝙄𝙤𝙏%2C+𝙋𝙮𝙩𝙝𝙤𝙣%2C+𝙖𝙣𝙙+𝘼𝙄.;My+journey+includes+solid+𝘁𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹+𝘀𝗸𝗶𝗹𝗹𝘀+and+𝗺𝗲𝗻𝘁𝗼𝗿𝗶𝗻𝗴+experience." />
 </p>-->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=6000&color=FF0000&vCenter=true&multiline=true&width=900&height=300&lines=I’m+a+𝘽.𝙏𝙚𝙘𝙝+𝘾𝙎𝙀+2𝙣𝙙-𝙮𝙚𝙖𝙧+(4𝙩𝙝+𝙨𝙚𝙢)+student;Studying+at+𝗣𝗼𝗼𝗿𝗻𝗶𝗺𝗮+𝗖𝗼𝗹𝗹𝗲𝗴𝗲+𝗼𝗳+𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴;Passionate+about+building+innovative+solutions;In+𝘾𝙮𝙗𝙚𝙧𝙨𝙚𝙘𝙪𝙧𝙞𝙩𝙮,+𝘿𝙚𝙫𝙊𝙥𝙨,+𝙄𝙤𝙏,+𝙋𝙮𝙩𝙝𝙤𝙣,+𝘼𝙄.;Mentoring+students+with+my+technical+skills;Always+learning,+building,+and+innovating!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=6000&color=FF0000&vCenter=true&multiline=true&width=900&height=300&lines=I’m+a+𝘽.𝙏𝙚𝙘𝙝+𝘾𝙎𝙀+2𝙣𝙙-𝙮𝙚𝙖𝙧+(5𝙩𝙝+𝙨𝙚𝙢)+student;Studying+at+𝗣𝗼𝗼𝗿𝗻𝗶𝗺𝗮+𝗖𝗼𝗹𝗹𝗲𝗴𝗲+𝗼𝗳+𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴;Passionate+about+building+innovative+solutions;In+𝘾𝙮𝙗𝙚𝙧𝙨𝙚𝙘𝙪𝙧𝙞𝙩𝙮,+𝘿𝙚𝙫𝙊𝙥𝙨,+𝙄𝙤𝙏,+𝙋𝙮𝙩𝙝𝙤𝙣,+𝘼𝙄.;Mentoring+students+with+my+technical+skills;Always+learning,+building,+and+innovating!" />
 </p>
 
 </div>
