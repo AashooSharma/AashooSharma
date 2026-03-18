@@ -300,7 +300,7 @@ I’m a 𝘽.𝙏𝙚𝙘𝙝 𝘾𝙎𝙀 2𝙣𝙙-𝙮𝙚𝙖𝙧 (4𝙩𝙝
 
 ---
   <details>
-  <summary>💬 When someone asks about my girlfriend...</summary>
+  <summary>💬 When someone asks about my girlfriend...click here</summary>
 
   <br/>
 
